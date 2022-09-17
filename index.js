@@ -77,6 +77,10 @@ function run(i)
     {
         x[i]=-rand(3)-0.5
     }
+    if(x_loc[i]+x[i]<=0)
+    {
+        x[i]=+rand(3)+0.5
+    }
    
     y_loc[i]+=y[i]
     x_loc[i]+=x[i]
