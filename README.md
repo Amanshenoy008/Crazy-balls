@@ -1,7 +1,7 @@
 # Crazy-balls
 Impractical hack II - MLH
 
-Live site : 
+Live site : https://crazy-ballz.netlify.app/
 
 To run this program-in your local system:
 
