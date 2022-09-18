@@ -14,6 +14,6 @@ To run this program-in your local system:
 
 
 Tech stack:
--Html
--css
--Javascript
+Html,
+css,
+,Javascript
