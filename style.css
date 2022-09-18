@@ -42,3 +42,9 @@ div{
         opacity: 1;
     }
 }
+section
+{
+    position:absolute;
+    top:0;
+    width:20vw;
+}
