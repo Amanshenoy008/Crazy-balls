@@ -58,7 +58,7 @@ setInterval(()=>{
     for(let i=0;i<ball.length;i++)
         run(i)
     if(ball.length!=1)
-        main.innerHTML=ball.length-1 + ' Touched'
+        main.innerHTML=ball.length-1 + ' Balls'
 },10)
 
 
